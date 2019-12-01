@@ -1,0 +1,21 @@
+dalam javaascript ada sebuah konsep yang dinamakan hoisting, terjemahannya mengangkat.
+
+
+javascript menganut function scope
+
+
+Immediately
+Invoked
+Function
+Expression
+
+Self
+Invoking
+Anonymous
+Function
+
+
+
+
+
+
